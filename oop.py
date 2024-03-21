@@ -1,5 +1,5 @@
 #learning oop
-class Car:
+"""class Car:
     def __init__(self,make,model,year,color):
         self.make=make
         self.model=model
@@ -17,48 +17,29 @@ car1=Car("chevy","Corvette",2021,"blue")
 print(car1.model)
 
 car1.drive()
-print(car1.description())
+print(car1.description())"""
 
-#implementing stacks
-class Stack(object):
-    def __init__(self):
-        self.item=[]
 
-    def push(self,item):
-        #push items to last index...return:None
-        self.item.append(item)
 
-    def pop(self,item):
-        #this will remove last item...return:None
-        self.item.pop(item)
-        
+class Car:
+    def __init__(self,make,model,year):
+        self.make=make
+        self.model=model
+        self.year=year
 
-    def peek(self):
-        #allows us to see the last elements....return:Last item
-        if self.item:
-            return self.item[-1]
-        else:
-            return None
-        
-    def size(self):
-        if self.item:
-            return len(self.item)
-        else:
-            return None
-        
-    def isEmpty(self):
-        #tells if stack is empty or not...return:Boolean value
-        if self.item==[]:
-            return True
-        else:
-            return False
+    def accelerate(self):
+        return f"The {self.model} is accelerating"
 
-#if __name__=="__main__":
+    def brake(self):
+        print("The" + self.make+ "is braking")
+    
+car1=Car("Bumpy","Chevrolette",2000)
+print(car1.make)
+print(car1.accelerate())
+car1.brake()
 
-item=[3,4,5,7,6,8,9,]
-Stack.pop([0])
-#print("Pop", element)
-"""Stack.push[1]
-Stack.push[2]
-print(Stack.size())
-print(Stack.peek())"""
+car2=Car("Shady","Monster truck",2006)
+car2.brake()
+print(car2.accelerate())
+
+
