@@ -1,9 +1,9 @@
-Anita Namaganda 
-Najjuma Teopista
-Nantege Elizabeth 
-Kisa Emma
-Tendo Calvin 
-Edube Emmanuel Guloba
+Anita Namaganda.         S23B38/025
+Najjuma Teopista.        S23B23/041
+Nantege Elizabeth.       S23B23/044
+Kisa Emma.               S23B23/028
+Tendo Calvin.            S23B23/013
+Edube Emmanuel Guloba.   S23B38/005
 
 https://github.com/anitajn86/classpractical/assets/144916737/0c93a3ec-204c-4bb3-8baf-d348725ebe17
 
