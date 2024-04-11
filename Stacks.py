@@ -30,3 +30,6 @@ print("The items being removed from the stack are:")
 stack.pop()
 
 stack.is_empty()
+
+
+print("eid is done......and now back to exams")
