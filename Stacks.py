@@ -34,3 +34,4 @@ stack.is_empty()
 
 print("eid is done......and now back to exams")
 print("mbu Hello world🤣🤣")
+print("i love code with emojis🤣😏😎")
