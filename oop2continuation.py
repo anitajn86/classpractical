@@ -3,7 +3,7 @@ class Library:
         self.member=member
         self.book=book
 
-    def borrowBook(self,newBook=""):
+    def borrowBook(self,newBook):
         self.book-=newBook
         print(f"Borrowed this new {newBook} from the library today")
 
@@ -17,6 +17,9 @@ class Library:
     def displayBook(self):
         print(f"This {self.book} is available at the library")
 
+    def __str__(self):
+        return f"Library with {self.member} as member and {self.book} books"
+
 """class Member(Library):
     def __init__(self,name):
         super().__init__(self,member,book)
@@ -25,5 +28,6 @@ class Library:
     def borrowBook(self):
         self.name(self.book)"""
 
-member1=Library("anita",'Cinderella')
-member1.borrowBook("Milan & Italy")
+member1=Library('Anita','Cinderella')
+print(member1)
+
