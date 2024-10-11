@@ -1,4 +1,4 @@
-class goodStack:
+print*"just tiredclass goodStack:
     def __init__(self):
         self.stack=[]
 
@@ -37,3 +37,5 @@ print("mbu Hello world🤣🤣")
 print("i love code with emojis🤣😏😎")
 print("The emojis are amazing😭😅")
 print("my vs code on the pc is not opening. I don't know what's wrong but I have to commit some code for the day.😭 God help me fix it.")
+
+print ("just tired ")
