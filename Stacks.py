@@ -1,4 +1,4 @@
-print*"just tiredclass goodStack:
+printprint*"just tiredclass goodStack:
     def __init__(self):
         self.stack=[]
 
@@ -43,3 +43,5 @@ print ("I am so packed today too. But I hope to start the project soon.")
 print("This is the week")
 print("just give me a little more time.")
 print("hi")
+
+print("😅👀👍🏾😏😭👐🏾💀😒🙄🔥🐾👐🥲🏆 ")
