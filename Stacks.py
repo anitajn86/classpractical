@@ -1,4 +1,4 @@
-printprint*"just tiredclass goodStack:
+priprintprint*"just tiredclass goodStack:
     def __init__(self):
         self.stack=[]
 
@@ -46,3 +46,4 @@ print("hi")
 
 print("😅👀👍🏾😏😭👐🏾💀😒🙄🔥🐾👐🥲🏆 ")
 print ("A weirdly lazy person")
+print("Hello. We resume work tomorrow.  Today we rest.🤣👍🏾")
