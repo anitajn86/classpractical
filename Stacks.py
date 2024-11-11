@@ -52,3 +52,4 @@ print(" Hey. so busssy with coursework and tests. Be back soon.✌🏾👍🏾 "
 print(" doing maths today😘👍🏾")
 print(" rest day😅👍🏾")
 print(" ok. back to serious business😁")
+print("reading for my software design and engineering test. unable to focus on code🥲.")
