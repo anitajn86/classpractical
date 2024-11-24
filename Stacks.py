@@ -1,4 +1,4 @@
-priprintprint*"just tiredclass goodStack:
+ipriprintprint*"just tiredclass goodStack:
     def __init__(self):
         self.stack=[]
 
@@ -57,3 +57,4 @@ print (" Hello, how are you. " )
 print (" ola mi hermano ")
 print ("blah blah blah ")
 print ("hey")
+print(" Somehow, my commits to the organization are not shown on the chart😭😭😭😅what should I do?")
