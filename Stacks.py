@@ -61,3 +61,4 @@ print(" Somehow, my commits to the organization are not shown on the chartðŸ˜­ðŸ
 print(" just a line of code")
 print("hehe.....one day")
 print("this us the loc of the day")
+print(" another loc of the day ")
