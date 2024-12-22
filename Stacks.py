@@ -1,4 +1,4 @@
-ipriprintprint*"just tiredclass goodStack:
+9ipriprintprint*"just tiredclass goodStack:
     def __init__(self):
         self.stack=[]
 
@@ -67,3 +67,4 @@ print(" but I have very many lines of code as commits😭😭😅")
 print(" good night 😴 🌃 🌙 ✨ world")
 print("hmmm")
 print("yooo")
+print(" it's parteeeeee timee😏🥳🥳🥳")
