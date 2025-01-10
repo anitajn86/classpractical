@@ -75,3 +75,4 @@ print("this ain't Texas, ain't no hold 'em, we lay our cards down down down down
 print("be back soon...happy new year 🎉 ✨ 💛 ")
 print(" today is rest day from machine learning ")
 print("yooo")
+print("I've been working on the railroad. nahhh. but I've worked the whole day. I'm tired. my gadgets are off. can't work.hohoho.........jjjjjjjjj")
