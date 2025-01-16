@@ -1,4 +1,4 @@
-9ipriprintprint*"just tiredclass goodStack:
+79ipriprintprint*"just tiredclass goodStack:
     def __init__(self):
         self.stack=[]
 
@@ -80,3 +80,4 @@ print("money bag yoo")
 print("eeeh...and I mean eeeh because eeehhh....")
 print("whoaa horsie")
 print("tired 😫 😪 ")
+print ("hello world 😂 🌎 🗺 ")
